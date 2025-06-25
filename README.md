@@ -7,7 +7,7 @@ Tenho interesse especial na área de front-end e estou explorando frameworks mod
 ### Sobre Mim:
 - ⚛️ Me especializando em TypeScript, Node.js, React(Web and Native)
   
-### Tecnologias:
+### 🖥️ Tecnologias:
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,react" />
@@ -25,7 +25,7 @@ I have a strong interest in front-end development and am exploring modern framew
 ### About Me:
 - ⚛️ Specializing in TypeScript, Node.js, React(Web and Native) 
 
-### Technologies:
+### 🖥️ Technologies:
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,react" />
@@ -34,7 +34,7 @@ I have a strong interest in front-end development and am exploring modern framew
   </a>
 </div>
 
-### Contato/Contact:
+### ✉️ Contato/Contact:
 <a href="https://linkedin.com/in/lucascampanharo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
 </a>
@@ -43,7 +43,7 @@ I have a strong interest in front-end development and am exploring modern framew
   <img src="https://img.shields.io/badge/Email-ff6666?logo=gmail&style=for-the-badge" alt="Email">
 </a>
 
-### Estatísticas/Stats:
+### #️⃣ Estatísticas/Stats:
  <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucascampanharo&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampanharo&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
