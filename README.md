@@ -39,7 +39,7 @@ I have a strong interest in front-end development and am exploring modern framew
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
 </a>
 
-<a href="mailto:lucascampanharodev@gmail.com">
+<a href="mailto:lucascampanharodev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-ff6666?logo=gmail&style=for-the-badge" alt="Email">
 </a>
 
