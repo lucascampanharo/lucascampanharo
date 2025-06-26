@@ -45,7 +45,7 @@ I have a strong interest in front-end development and am exploring modern framew
 
 ### #️⃣ Estatísticas/Stats:
  <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucascampanharo&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampanharo&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucascampanharo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampanharo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
  </div>
 
